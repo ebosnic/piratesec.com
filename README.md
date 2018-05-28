@@ -5,4 +5,10 @@ Demonstration of unix unix-like, GNU/Linux like operating systems, orchestration
 
 # Resources:
 ### wiki.piratesec.com
+Classic wiki page. You will need an account in order to reach it.
+
 ### whydhy.piratesec.com
+ansible console
+
+###jenkins.piratesec.com 
+CD/CD
