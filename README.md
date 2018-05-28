@@ -1,5 +1,5 @@
 # piratesec.com
-piratesec.com
+### https://piratesec.com
 
 Demonstration of unix unix-like, GNU/Linux like operating systems, orchestration, iterration, HA, autoScaling, CI/CD, and similar everyday devops.
 
